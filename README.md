@@ -93,7 +93,7 @@ dpkg - i minikube_latest_amd 64 .deb
 
 #### minikube start
 
-#### git clone https://github.com/Vaksalan/example-voting-app
+#### git clone https://github.com/Jidel-Esgi/example-voting-app
 
 #### cd example-voting-app/k 8 s-specifications
 
